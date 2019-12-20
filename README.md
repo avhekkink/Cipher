@@ -8,3 +8,6 @@ The attack file contains the code we use to systematically work out the key. It 
 The Key file contains the functions needed to edit the key as the user swaps letters, as well as the methods to decrypt the sample text with the current key.
 
 The solution file contains the specific key that decrypts the 'Secret' in our ciphertext. It turns out that the secret was a passage taken from a Sherlock Holmes book.
+
+
+-Coded in MATLAB
